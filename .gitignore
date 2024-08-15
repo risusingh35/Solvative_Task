@@ -1,0 +1,5 @@
+# all node_modules
+*/node_modules
+
+# dotenv uncomment below line 
+# *.env 
